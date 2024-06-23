@@ -1,6 +1,6 @@
 package org.schabi.newpipe.player;
 
-import static org.schabi.newpipe.QueueItemMenuUtil.openPopupMenu;
+import static org.schabi.newpipe.QueueItemMenuUtilKt.openPopupMenu;
 import static org.schabi.newpipe.player.helper.PlayerHelper.formatSpeed;
 import static org.schabi.newpipe.util.Localization.assureCorrectAppLanguage;
 

@@ -2,7 +2,7 @@ package org.schabi.newpipe.player.ui;
 
 import static android.view.ViewGroup.LayoutParams.MATCH_PARENT;
 import static org.schabi.newpipe.MainActivity.DEBUG;
-import static org.schabi.newpipe.QueueItemMenuUtil.openPopupMenu;
+import static org.schabi.newpipe.QueueItemMenuUtilKt.openPopupMenu;
 import static org.schabi.newpipe.extractor.ServiceList.YouTube;
 import static org.schabi.newpipe.ktx.ViewUtils.animate;
 import static org.schabi.newpipe.player.Player.STATE_COMPLETED;
